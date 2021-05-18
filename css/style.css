@@ -4,6 +4,8 @@ body {
 
 h1 {
   color: #b030b0;
+  font-size: 50px;
+  font-family: monospace;
 }
 
 h3 {
@@ -20,6 +22,10 @@ form, table, ul, ol {
 
 a {
   color: #b030b0;
+}
+
+img:hover {
+  background-color: gold;
 }
 
 hr {
