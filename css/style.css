@@ -1,0 +1,32 @@
+body {
+  background-color: #202040;
+}
+
+h1 {
+  color: #b030b0;
+}
+
+h3 {
+  color: #b030b0;
+}
+
+p {
+  color: white;
+}
+
+form, table, ul, ol {
+  color: white;
+}
+
+a {
+  color: #b030b0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 0px;
+  width: 5%;
+  border-color: grey;
+  border-width: 6px;
+}
